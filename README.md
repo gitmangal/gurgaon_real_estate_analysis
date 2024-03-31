@@ -1,7 +1,7 @@
 # 🏡 Data analysis on Gurugram Real Estate 🏡
-[click here](https://github.com/gitmangal/Real_state_analysis) to view the GitHub repository of this project.
+[click here](https://appapppy-gnw3dm5nb7foi8ywxnckvs.streamlit.app/) to view fully working streamlit app.
 
-[click here](https://github.com/gitmangal/Real_state_analysis) to view the GitHub repository of this project.
+[click here](https://medium.com/@mam66371/data-analysis-on-gurugram-real-estate-data-trends-and-tips-for-buyers-4bb1d91eca3d) to view blog.
 
 ## Project Overview
 * This project represents the culmination of my Data Science mentorship program, completed under the guidance of our mentor, Sir Nitish.
