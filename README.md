@@ -42,5 +42,27 @@ Conducted exploratory data analysis (EDA) to uncover insights and patterns in th
 ### 6. 🎯stremlit app🎯
 I have developed a fully functional Streamlit web application as part of this project. The app allows users to interactively explore the data analysis results and visualize key insights.
 
+### Installation
+
+To run this dashboard locally, follow these steps:
+
+1. Clone `streamlit_app` repository.
+2. download `data_viz1..csv`
+3. Run the Streamlit app using `streamlit run app.py`.
+
+## Dependencies
+Python 3.x
+
+Streamlit
+
+Pandas
+
+matplotlib
+
+## Contributing
+We welcome contributions from the community. If you find any bugs or have ideas for new features, please open an issue or submit a pull request.
+
+## Contact
+For any questions or feedback, feel free to reach out to mam66371@gamil.com.
 
 
