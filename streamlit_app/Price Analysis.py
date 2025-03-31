@@ -11,7 +11,7 @@ new_df = pd.read_csv(csv_path)
 sector_options = new_df['sector'].unique().tolist()
 sector_options.insert(0,'overall')
 
-selected_sector = st.sidebar.selectbox(
+selected_sector = st.selectbox(
     "Select any sector",
     sector_options)
 
