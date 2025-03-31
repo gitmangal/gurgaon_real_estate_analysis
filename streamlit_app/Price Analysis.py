@@ -11,11 +11,10 @@ new_df = pd.read_csv(csv_path)
 sector_options = new_df['sector'].unique().tolist()
 sector_options.insert(0,'overall')
 
+st.title("🏡 Gurugram Real Estate 🏡")
 selected_sector = st.selectbox(
     "Select any sector",
     sector_options)
-
-st.title("🏡 Gurugram Real Estate 🏡")
 
 group_df = new_df.groupby('sector')[['bedRoom', 'price_per_sqft', 'super_built_up_area', 'latitude', 'longitude']].mean()
 st.header('Sector Price per Sqft Geomap')
